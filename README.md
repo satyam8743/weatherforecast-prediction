@@ -1,3 +1,4 @@
+Members in this group:- Satyam Kumar Singh, Rohit Kumar,Shubham Kumar 
 Weather Prediction Forecast Project Documentation
 Table of Contents
 1.	Introduction
